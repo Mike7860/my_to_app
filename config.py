@@ -1,1 +1,0 @@
-SENDER_EMAIL = 'michal.78.60@gmail.com'
